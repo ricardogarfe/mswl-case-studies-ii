@@ -14,6 +14,8 @@ Evaluación
 * gobernanza, empresas, servicios, tecnologías, licencias, forks, marketing, marca, modelos de negocio, filosóficos, democráticos.
 * 2 o tres párrafos sobre el tema.
 
+*tecnologías*
+
 Goals
 ======
 
