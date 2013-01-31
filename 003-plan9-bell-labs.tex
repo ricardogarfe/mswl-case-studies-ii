@@ -1,0 +1,92 @@
+\documentclass[11pt]{scrartcl}
+\usepackage[parfill]{parskip}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{tabulary}
+\usepackage{float}
+\usepackage{eurosym}
+\usepackage{hyperref}
+
+\graphicspath{{images/}}
+
+\title{\textbf{Plan9 Bell Labs}}
+\subtitle{Enrique}
+\author{Ricardo Garc\'ia Fern\'andez}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\vfill
+
+\begin{flushright}
+    \copyright  2013 Ricardo Garc\'ia Fern\'andez - ricardogarfe [at] gmail [dot] com.
+
+    This work is licensed under a Creative Commons 3.0 Unported License.
+    To view a copy of this license visit:
+ 
+    \url{http://creativecommons.org/licenses/by/3.0/legalcode}.
+\end{flushright}
+
+\begin{figure}[h]
+    \begin{flushright}	
+        \includegraphics{by}
+        \label{fig:by}
+    \end{flushright}
+\end{figure}
+
+\newpage
+
+\section{Plan9}
+
+\emph{Unix no está preparado para trabajar en red.}
+
+\par Plan9 fue creado por los mismos creadores de Unix.
+
+\par Problemas con la duplicación de funcionalidades al crear una distribución distribuida.
+
+\emph{Todo es un fichero en Unix}. Leer de un fichero virtual ON u OFF para gestionar las luces.
+
+    echo on >> /dev/room13/lig
+
+\par Procesos como ficheros.
+
+\par Protocolo llamado \textbf{9P} para exportar los ficheros a través de la red.
+
+% section history (end)
+\section{History}
+\label{sec:history}
+
+\begin{itemize}
+	\item 1992 First edition: University pack.
+	\item 1995 ...
+	\item 2002
+\end{itemize}
+
+\section{License}
+\label{sec:license}
+
+Artículo de Stallman sobre Plan9\footnote{\url{http://www.gnu.org/philosophy/plan-nine.html}}.
+
+\par Ahora es aceptada por OSI, FSF y Debian Guidelines\footnote{\url{http://plan9.bell-labs.com/plan9/license.html}}. 
+
+\begin{itemize}
+	\item Es estilo MIT y Apache.
+	\item Incompatible con GPL. Ligado a las leyes americanas.
+	\item Similar a IBM License a diferencia de poder distribuir el código fuente con el trabajo derivado.
+\end{itemize}
+
+% section license (end)
+
+\section{Contributions}
+\label{sec:contributions}
+
+\par Descarga del código fuente y aportar cualquier solución.
+
+\par Selección y evaluación del código que se sube. No hay integración continua ?
+
+% section contributions (end)
+
+
+\end{document}
