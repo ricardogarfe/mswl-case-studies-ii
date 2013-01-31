@@ -1,0 +1,198 @@
+\documentclass[11pt]{scrartcl}
+\usepackage[parfill]{parskip}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{tabulary}
+\usepackage{float}
+\usepackage{eurosym}
+\usepackage{hyperref}
+
+\graphicspath{{images/}}
+
+\title{\textbf{WebKit}}
+\subtitle{Subtitle}
+\author{Ricardo Garc\'ia Fern\'andez}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\vfill
+
+\begin{flushright}
+    \copyright  2013 Ricardo Garc\'ia Fern\'andez - ricardogarfe [at] gmail [dot] com.
+
+    This work is licensed under a Creative Commons 3.0 Unported License.
+    To view a copy of this license visit:
+ 
+    \url{http://creativecommons.org/licenses/by/3.0/legalcode}.
+\end{flushright}
+
+\begin{figure}[h]
+    \begin{flushright}	
+        \includegraphics{by}
+        \label{fig:by}
+    \end{flushright}
+\end{figure}
+
+\newpage
+
+\section{WebKit}
+
+Que es WebKit ?
+Inicios de 2005 Apple era el \'unico contribuidor de WebKit.
+
+Objetivos principales
+
+No es un navegador Web, es un renderizador de html. A diferencia de Gecko que es un motor de rendering web para Firefox.
+
+No estaba pensado para ser adapatado a distintas plataformas.
+
+Curioso que sea opensources.
+
+Licencias BSD. Apple Safary, Google con Chromium.
+GPL para enlazar con código privativo.
+Compatibility and Standards.
+Stability.
+Seguridad.
+Portabilidad. Genérico para cualquier plataforma. Se ha basado en interfaces para poder implementar cada módulo específico de una plataforma.
+Usabilidad. No tiene interfaz de usuario.
+Hackability. 2.000.000 de líneas de código. Ha de estar bien estructurado.
+
+\section{Where is WebKit?}
+\label{sec:where-is}
+
+Nintendo 3Ds, Kindle, Android, etc\ldots
+
+% section where-is (end)
+
+\section{Architecture}
+\label{sec:architecture}
+
+Application - API
+
+WebKit - Render
+
+WebCore - Interfaces
+
+platform - JavaScriptCore
+
+Abril 2010 - WebKit 2.0
+
+% section architecture (end)
+
+\section{WebKit 2.0}
+\label{sec:webkit-2.0}
+
+Se ha divido la API en dos procesos diferentes: UI Process y Web Process.
+Como el modelo Chromium para gestionar las pestañas por procesos.
+
+Tres modelos de procesos:
+\begin{itemize}
+	\item Un proceso para todo.
+	\item Un proceso cada web.
+	\item Un proceso conjunto de páginas web (misma url)
+\end{itemize}
+
+Estabilidad y Seguridad.
+
+Diferencias entre WebKit2 y Chromium:
+
+El límite de WebKit2 se encuentra en el API en vez de en la aplicación Chromium que es la encargada de separar los procesos.
+
+% section webkit-2.0 (end)
+
+\section{Main Ports}
+\label{sec:main-ports}
+
+\begin{itemize}
+	\item Apple Mac
+	\item Apple Windows
+	\item Chromium
+	\item GTK+
+	\item Qt
+	\item Cairo-based Windows
+	\item EFL
+	\item Windows CE
+	\item BlackBerry
+\end{itemize}
+
+GTK+ Port
+
+API GTK+ Application.
+WebKitGTK+
+WebCore
+suop, cairo.. JavaScriptCore
+
+% section main-ports (end)
+
+\section{Contributors}
+\label{sec:contributors}
+
+WebKit in numbers:
+\begin{itemize}
+	\item Contributors, more than 450 (68 not committers).
+	\item 384 committers (260 not reviewers).
+	\item 124 reviewers, (51 Apple, 41 Google, 9 Nokia, 6 RIM, Igalia 5, 3 Samsung,\ldots)
+\end{itemize}
+
+Build Fixes.
+Gardening. Bot Test.
+
+\subsection{Committers}
+\label{sub:committers}
+
+Para ser 'committer' has de ser nominado por los reviewers. Tener un número mínimo de parches significativos (ronda entre los 10 y 20). Proceso burocrático y recibir la aprobación de 3. Se ha de buscar la pluralidad poniendo en contacto entre uno a más reviewers.
+
+Cualquier compañía con más de tres reviewers puede dar permiso a un reviewer.
+
+% subsection committers (end)
+
+\subsection{Reviewers}
+\label{sub:reviewers}
+
+Elegido por reviewers de distinta compañía, más de 80 parches funcionales.
+
+% subsection reviewers (end)
+
+\section{Contribute Code}
+\label{sec:}
+
+% section  (end)
+\subsection{Early Warning Systems: EWS}
+\label{sub:ews}
+
+Sistema de validación mediante boots para cada parche que se publica a través de bugzilla\url{http://webkit-commit-queue.appspot.com/}.
+
+Se ejecutan las pruebas de compilación en cada una de los ports y se ejecutan los tests en todas las plataformas. Si existe algún error informa del mismo al usuario que ha añadido el parche.
+
+% section ews (end)
+
+\subsection{Landing the patch}
+\label{sub:patch}
+
+Mediante webkit-patch-land se automatiza la publicación de un parche
+Changelog.
+Commit.
+Bugzilla.
+Cierra el bug.
+
+% subsection patch (end)
+
+\subsection{Whatching the bots}
+\label{sub:wtbots}
+
+Responsibility for a patch does not end with the patch landing in the tree.
+
+% subsection wtbots (end)
+% section contributors (end)
+\section{Technology}
+\label{sec:technology}
+
+Unificación de una solución.
+
+% section technology (end)
+
+
+\end{document}
