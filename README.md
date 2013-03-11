@@ -1,7 +1,7 @@
 MSWL Case Studies II
 =====================
 
-![Community talks](images/community.jpg)
+![Community talks](https://raw.github.com/ricardogarfe/mswl-case-studies-ii/master/images/community.jpg)
 
 ## Introduction
 
