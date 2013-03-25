@@ -18,11 +18,11 @@ Community Talks Blog posts:
 * Apache - [Santiago Gala](http://mastersfwlurjc.blogspot.com.es/2013/02/apache-software-foundation-communtity.html)
 * Webkit - [Carlos García Campos](http://mastersfwlurjc.blogspot.com.es/2013/02/webkit-community-talk.html)
 * Plan 9 - [Enrique Soriano](http://mastersfwlurjc.blogspot.com.es/2013/02/webkit-community-talk.html)
-* Wikipedia - Miquel Vidal **TBC**
+* Wikipedia - [Miquel Vidal](http://mastersfwlurjc.blogspot.com.es/2013/03/wikipedia-from-chaos-to-order-community.html)
 * GNU and GNU-es - [Jose E. Marchesi](http://mastersfwlurjc.blogspot.com.es/2013/03/gnu-project-community-talk.html)
 * The OpenDocument Foundation - [Charles H. Schulz](http://mastersfwlurjc.blogspot.com.es/2013/03/the-document-foundation-community-talk.html)
 * Free software tools - [José Gato](http://mastersfwlurjc.blogspot.com.es/2013/03/libre-desktops-and-public.html)
-* Liferay - Jorge Ferrer **TBC**
+* Liferay - []Jorge Ferrer](http://mastersfwlurjc.blogspot.com.es/2013/03/liferay-community-talk-by-jorge-ferrer.html)
 * Free Software in Public Administrations - Eduardo Romero **TBC**
 * KDE - [Albert Astals](http://mastersfwlurjc.blogspot.com.es/2013/02/kde-community-talk.html)
 * GNOME - Carlos Garcia **TBC**
