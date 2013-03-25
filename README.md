@@ -22,7 +22,7 @@ Community Talks Blog posts:
 * GNU and GNU-es - [Jose E. Marchesi](http://mastersfwlurjc.blogspot.com.es/2013/03/gnu-project-community-talk.html)
 * The OpenDocument Foundation - [Charles H. Schulz](http://mastersfwlurjc.blogspot.com.es/2013/03/the-document-foundation-community-talk.html)
 * Free software tools - [José Gato](http://mastersfwlurjc.blogspot.com.es/2013/03/libre-desktops-and-public.html)
-* Liferay - []Jorge Ferrer](http://mastersfwlurjc.blogspot.com.es/2013/03/liferay-community-talk-by-jorge-ferrer.html)
+* Liferay - [Jorge Ferrer](http://mastersfwlurjc.blogspot.com.es/2013/03/liferay-community-talk-by-jorge-ferrer.html)
 * Free Software in Public Administrations - Eduardo Romero **TBC**
 * KDE - [Albert Astals](http://mastersfwlurjc.blogspot.com.es/2013/02/kde-community-talk.html)
 * GNOME - Carlos Garcia **TBC**
