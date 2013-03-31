@@ -2,7 +2,7 @@
 Thunderbird Quality Assurance 
 ==============================
 
-"Community Talk":http://blip.tv/mswl/case-studie-ii_quality-assurance-in-thunderbird-and-mozilla-5906218 by Ludovic Hirliman (http://perso.hirlimann.net/~ludo/)
+"Community Talk":http://blip.tv/mswl/case-studie-ii_quality-assurance-in-thunderbird-and-mozilla-5906218 by Ludovic Hirliman (http://perso.hirlimann.net/~ludo/) @lhirlimann
 
 Quality Assurance 
 ==================
