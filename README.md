@@ -23,11 +23,11 @@ Community Talks Blog posts:
 * The OpenDocument Foundation - [Charles H. Schulz](http://mastersfwlurjc.blogspot.com.es/2013/03/the-document-foundation-community-talk.html)
 * Free software tools - [José Gato](http://mastersfwlurjc.blogspot.com.es/2013/03/libre-desktops-and-public.html)
 * Liferay - [Jorge Ferrer](http://mastersfwlurjc.blogspot.com.es/2013/03/liferay-community-talk-by-jorge-ferrer.html)
-* Free Software in Public Administrations - Eduardo Romero **TBC**
+* Free Software in Public Administrations - [Eduardo Romero](http://mastersfwlurjc.blogspot.com.es/2013/03/public-administrations-floss-migration.html)
 * KDE - [Albert Astals](http://mastersfwlurjc.blogspot.com.es/2013/02/kde-community-talk.html)
-* GNOME - Carlos Garcia **TBC**
-* QA in Thunderbird - Ludovic Hirliman **TBC**
-* Canonical - Rodrigo Moya **TBC**
+* GNOME - [Carlos Garcia](http://mastersfwlurjc.blogspot.com.es/2013/03/gnome-community-talk.html)
+* QA in Thunderbird - [Ludovic Hirliman](http://mastersfwlurjc.blogspot.com.es/2013/04/thunderbird-qa-community-talk.html)
+* Canonical - [Rodrigo Moya](http://mastersfwlurjc.blogspot.com.es/2013/03/canonical-community-talk.html)
 * Mozilla & Mozilla Hispano Communities - [Guillermo Lopez](http://mastersfwlurjc.blogspot.com.es/2013/02/mozilla-foundation-community-talk.html)
 * OSOR - Roberto Andradas **TBC**
 
