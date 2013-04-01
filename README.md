@@ -31,6 +31,10 @@ Community Talks Blog posts:
 * Mozilla & Mozilla Hispano Communities - [Guillermo Lopez](http://mastersfwlurjc.blogspot.com.es/2013/02/mozilla-foundation-community-talk.html)
 * OSOR - [Roberto Andradas](http://mastersfwlurjc.blogspot.com.es/2013/04/osor-forge-community-talk.html)
 
+### Notes
+
+Notes directory from classes and video talks.
+
 ### Final Report 
 
 Final report is a summary of technologies and contributions for each talk community.
