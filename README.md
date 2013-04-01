@@ -63,7 +63,7 @@ $ pdflatex final_report/000-community-talks.tex
 
 ### Collaborative Final Report
 
-We created a repository in github for every student Final Report about these talks:
+We created a repository in github for every report for each student about these talks:
 
 * https://github.com/mswl-2012-2013/mswl-case-studies-ii
 
