@@ -33,7 +33,24 @@ Community Talks Blog posts:
 
 ### Final Report 
 
-**TBC**
+Final report is a summary of technologies and contributions for each talk community.
+
+´´´shell
+final_report/
+└── 000-community-talks.tex
+´´´
+
+Generate pdf using LaTeX:
+
+´´´shell
+$ pdflatex final_report/000-community-talks.tex
+´´´
+
+### Collaborative Final Report
+
+We created a repository in github for every student Final Report about these talks:
+
+* https://github.com/mswl-2012-2013/mswl-case-studies-ii
 
 ## License
 
