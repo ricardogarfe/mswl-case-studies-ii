@@ -29,7 +29,7 @@ Community Talks Blog posts:
 * QA in Thunderbird - [Ludovic Hirliman](http://mastersfwlurjc.blogspot.com.es/2013/04/thunderbird-qa-community-talk.html)
 * Canonical - [Rodrigo Moya](http://mastersfwlurjc.blogspot.com.es/2013/03/canonical-community-talk.html)
 * Mozilla & Mozilla Hispano Communities - [Guillermo Lopez](http://mastersfwlurjc.blogspot.com.es/2013/02/mozilla-foundation-community-talk.html)
-* OSOR - Roberto Andradas **TBC**
+* OSOR - [Roberto Andradas](http://mastersfwlurjc.blogspot.com.es/2013/04/osor-forge-community-talk.html)
 
 ### Final Report 
 
