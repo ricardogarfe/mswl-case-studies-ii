@@ -35,16 +35,16 @@ Community Talks Blog posts:
 
 Final report is a summary of technologies and contributions for each talk community.
 
-´´´shell
+```shell
 final_report/
 └── 000-community-talks.tex
-´´´
+```
 
 Generate pdf using LaTeX:
 
-´´´shell
+```shell
 $ pdflatex final_report/000-community-talks.tex
-´´´
+```
 
 ### Collaborative Final Report
 
